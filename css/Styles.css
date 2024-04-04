@@ -1,0 +1,48 @@
+
+
+body {
+    padding-top: 56px;
+    background-color: rgb(3, 37, 74);
+}
+
+.Spacebetweensections {
+    margin-top: 4%;
+    margin-bottom: 5%;
+}
+
+img { 
+    border-radius: 50%;
+    max-width: 55%; 
+    height: auto; 
+}
+
+
+.Jacqueline-font2 {
+    color: #f2f2f2;
+    text-align: center;  /* Center the text within the container */
+    font-size: 20px;
+    /* background-color: rgb(145, 61, 132); Delete Delete Later */
+}
+
+ .Jacqueline-Name {
+    font-size: 45px;
+    font-weight: 600;
+    padding-left: 25%;
+    /* background-color: blue;  Delete Delete Later */
+} 
+
+h2 {
+    padding-top: 4%;
+}
+
+
+.Footers-Font {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+footer {
+    padding-top: 2%;
+    background-color: #e3f2fd;
+}
+
